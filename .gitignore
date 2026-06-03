@@ -14,7 +14,6 @@ __pycache__/
 *.so
 
 # Vector Store (large files)
-legal_vector_store/
 chroma_db/
 
 # Jupyter Notebook
