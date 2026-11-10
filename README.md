@@ -264,10 +264,10 @@ For specific legal matters, users should consult a qualified lawyer.
 
 ## Developer
 
-Thushar Gurrala  
+Patlolla Varun Teja  
 B.Tech – Computer Science (AI \& ML)
 
-GitHub: https://github.com/ThusharGurrala
+GitHub: https://github.com/Patlollavarunteja
 
 \---
 
