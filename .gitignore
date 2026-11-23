@@ -4,8 +4,11 @@ venv/
 env/
 myenv/
 
-# Environment Variables
+# Environment Variables (keeps your Groq API key private)
 .env
+
+# Local User Credentials (keeps passwords private)
+users.json
 
 # Python Cache
 __pycache__/
@@ -13,8 +16,9 @@ __pycache__/
 *$py.class
 *.so
 
-# Vector Store (large files)
+# Vector Store (large local database files)
 chroma_db/
+legal_vector_store/
 
 # Jupyter Notebook
 .ipynb_checkpoints
